@@ -1,0 +1,60 @@
+.iconic{
+	font-size:25px;
+	color:#333333;
+	font-weight: normal;
+}
+
+.iconic:hover{
+	color:#888888;
+}
+
+.nav-obj{
+	color:#333333;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.nav-obj:hover{
+	color:#666666;
+}
+
+a{
+	color:#666666;
+	font-weight: bold;
+}
+
+a:hover{
+	color:#333333;
+}
+
+
+.symbol{
+	font-size: 40px;
+	color:#333333;
+}
+
+.sub-symbol{
+	font-size: 48px;
+	color:#333333;
+}
+
+.apply{
+	color: #666666;
+	font-size:18px;
+}
+
+.apply:hover{
+	color:#333333;
+	text-decoration: none;
+}
+
+.nice{
+	border: solid #aaaaaa 1px;
+	border-radius: 5px;
+	padding: 15px;
+}
+
+.lead1{
+	font-size: 18px;
+	color:#333333;
+}
